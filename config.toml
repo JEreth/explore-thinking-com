@@ -1,0 +1,40 @@
+baseURL = 'https://explore-thinking.com/'
+languageCode = 'en-us'
+title = 'EXPLORE X THINKING'
+theme = 'archie'
+copyright = "© Julian Ereth"
+
+paginate=10
+
+[params]
+	mode="auto"
+	subtitle = "Just random thoughts of a curious mind."
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/JEreth"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://www.linkedin.com/in/julian-ereth/"
+
+# Main menu Items
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
