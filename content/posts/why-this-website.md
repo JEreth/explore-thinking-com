@@ -26,3 +26,4 @@ I see this blog as a public version of my personal notebook.
 
 - Some discussions on HackerNews about why blog anyway? https://news.ycombinator.com/item?id=30965485 https://news.ycombinator.com/item?id=32137336
 
+- Paul Graham on "writing" http://www.paulgraham.com/words.html
