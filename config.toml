@@ -1,14 +1,16 @@
 baseURL = 'https://explore-thinking.com/'
 languageCode = 'en-us'
-title = 'EXPLORE X THINKING'
+title = 'EXPLORE THINKING'
 theme = 'archie'
 copyright = "© Julian Ereth"
 
-paginate=10
+
+[pagination]
+  pagerSize = 10
 
 [params]
 	mode="auto"
-	subtitle = "Just random thoughts of a curious mind."
+	subtitle = "Random Thoughts on Technology, Society and other Topics"
 
 # Social Tags
 

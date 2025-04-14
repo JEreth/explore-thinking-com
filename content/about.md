@@ -9,7 +9,7 @@ This project is a mix of my personal blog, a set of random thoughts and a collec
 Due to my daily work and my vita, my main interests are in the area of information systems, complex and data-intensive software as well as other technology related topics. However, sometimes I try to connect the dots to other domains such as philosophical aspects, politics and many more.
 
 You are welcome to browser around. If you want to discuss certain topics, please feel welcome to contact me
-at [discuss@explore-thinking.com](mailto:discuss@explore-thinking.com) - but please be kind human being - even if you have other views :).
+at [discuss@explore-thinking.com](mailto:discuss@explore-thinking.com) - but please be a kind human being - even if you have other views :).
 
 # About me
 
